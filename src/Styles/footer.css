@@ -1,0 +1,9 @@
+div.footer {
+  background: black;
+  /* border: red 1px dotted; */
+  border-radius: 7px;
+  height: 50px;
+  position: absolute;
+  bottom: 213px;
+  width: 350px;
+}

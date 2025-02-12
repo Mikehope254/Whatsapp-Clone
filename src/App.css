@@ -1,0 +1,11 @@
+div.container {
+  border: grey 5px solid;
+  height: 98vh;
+}
+div.UI {
+  border: 1px solid grey;
+  border-radius: 14px;
+  height: 700px;
+  width: 350px;
+  margin: 10px 0px 10px 25%;
+}
