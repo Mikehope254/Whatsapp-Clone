@@ -9,13 +9,13 @@ export default function Whatsapp() {
   const handleClick = (name) => {
     // alert(`${name} was Clicked `);
     if (name === "chats") {
-      setPageContent("chats");
+      setPageContent("Whatsapp");
     } else if (name === "updates") {
-      setPageContent("updates");
+      setPageContent("Updates");
     } else if (name === "communities") {
-      setPageContent("communities");
+      setPageContent("Communities");
     } else if (name === "calls") {
-      setPageContent("calls");
+      setPageContent("Calls");
     }
   };
 

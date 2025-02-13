@@ -7,5 +7,7 @@ div.UI {
   border-radius: 14px;
   height: 700px;
   width: 350px;
-  margin: 10px 0px 10px 25%;
+  margin: 10px 0px 10px 38%;
+  position: relative;
+  background-color: #075e54;
 }
