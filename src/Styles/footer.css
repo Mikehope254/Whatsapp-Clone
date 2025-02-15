@@ -1,8 +1,22 @@
 div.footer {
   background: #064e46;
-  border-radius: 7px;
+  border-radius: 10px;
   height: 50px;
   position: absolute;
   bottom: 0px;
   width: 350px;
+}
+
+button {
+  height: 50px;
+  width: 90px;
+  background: #064e46;
+  border-radius: 10px;
+  border: 1px;
+}
+button:hover {
+  background: #032b26;
+}
+button.chats {
+  width: 80px;
 }
